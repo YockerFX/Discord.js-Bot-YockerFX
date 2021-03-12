@@ -1,0 +1,41 @@
+{
+  "name": "personaljesus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "ascii-table": "0.0.9",
+    "canvacord": "^5.0.8",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "date": "^1.0.2",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "discord.js-prompts": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.18.0",
+    "figlet": "^1.5.0",
+    "fortnite": "^4.3.2",
+    "fs": "0.0.1-security",
+    "mathjs": "^9.0.0",
+    "moment": "^2.29.1",
+    "node-ddg": "^2.2.3",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "random-puppy": "^1.1.0",
+    "reconlx": "^1.0.8",
+    "snekfetch": "^4.0.4",
+    "string-progressbar": "^1.0.1",
+    "superagent": "^6.1.0",
+    "urban": "^0.3.2",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
