@@ -3,7 +3,18 @@
 
 ## 📋 How to use
 
- >npm-packages:
+#### Token:
+
+Replace the "YOUR_TOKEN" in the .env file with your Discord bot token.
+
+### Prefix:
+
+index.js (line: 37)
+```javascript
+    const prefix = ",";
+```
+
+#### npm-packages:
 
  >npm i ascii-art
      
@@ -57,6 +68,25 @@
 
  >npm i util
 
+#### Custom Status
+
+Replace the ",help" with your costum status and the "https://www.twitch.tv/yockerfx" with your twitch channel.
+
+index.js (line: 24-34)
+
+```javascript
+client.on("ready", () => {
+    console.log(`Hi, your ${client.user.username} is now online!`);   
+    client.user.setPresence({
+   status: 'online',
+   activity: {
+       name: `,help`,
+       type: 'STREAMING',
+       url: 'https://www.twitch.tv/yockerfx'
+   } 
+})
+});
+```
 
 ## Commands
 
