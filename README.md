@@ -19,6 +19,7 @@
 #### :slight_smile: Fun
 
 | Command | Explained |
+| ------------------ | ------------------ |
 | ,8ball | Gives a random answer to a question. |
 | ,ascii | Converts text into ascii. |
 | ,avatar | Displays the avatar of the mentioned user. |
@@ -36,6 +37,7 @@
 #### :mag_right: Info
 
 | Command | Explained |
+| ------------------ | ------------------ |
 | ,bot | Shows bot information. |
 | ,list | ,list (command) |
 | ,sinfo | Shows server information. |
@@ -47,5 +49,6 @@
 #### :hammer_pick: Test
 
 | Command | Explained |
+| ------------------ | ------------------ |
 | ,meme | Sends a random meme from reddit. |
 | ,instagram| Shows informations about an account. |
