@@ -6,7 +6,7 @@
 
 ## Commands
 
-#### :man_police_officer: Moderation
+#### 👮 Moderation
 
 | Command | Explained |
 | ------------------ | ------------------ |
@@ -16,7 +16,7 @@
 | ,poll | Sends a poll in a channel named: "poll" / "polls" / "surveys"  |
 | ,suggest | Sends a suggestion in a channel named: "suggestion" / "suggestions" |
 
-#### :slight_smile: Fun
+#### 😎 Fun
 
 | Command | Explained |
 | ------------------ | ------------------ |
@@ -46,7 +46,7 @@
 | ,ping | Get the bot\'s API ping |
 
 
-#### :hammer_pick: Test
+#### 🔨 Test
 
 | Command | Explained |
 | ------------------ | ------------------ |
