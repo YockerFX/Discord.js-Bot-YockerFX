@@ -1,7 +1,61 @@
 # Discord.js-Bot-YockerFX
 
 
-## How to use
+## 📋 How to use
+
+ >npm-packages:
+
+ >npm i ascii-art
+     
+ >npm i ascii-table
+    
+ >npm i canvacord
+    
+ >npm i chalk
+    
+ >npm i common-tags
+    
+ >npm i date
+    
+ >npm i discord.js
+    
+ >npm i discord.js-pagination
+    
+ >npm i discord.js-prompts
+    
+ >npm i dotenv
+    
+ >npm i eslint
+    
+ >npm i figlet
+    
+ >npm i fortnite
+    
+ >npm i fs
+    
+ >npm i mathjs
+    
+ >npm i moment
+    
+ >npm i node-ddg
+    
+ >npm i node-fetch
+    
+ >npm i node-superfetch
+    
+ >npm i random-puppy
+    
+ >npm i reconlx
+    
+ >npm i snekfetch
+    
+ >npm i string-progressbar
+    
+ >npm i superagent
+
+ >npm i urban
+
+ >npm i util
 
 
 ## Commands
