@@ -1,5 +1,6 @@
 # Discord.js-Bot-YockerFX
 
+This is a small project to extend/train my javascript skills. And I hope you can do something with it and have some fun with my bot.
 
 ## 📋 How to use
 
