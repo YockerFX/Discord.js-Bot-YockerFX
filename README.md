@@ -7,7 +7,9 @@
 
 Replace the "YOUR_TOKEN" in the .env file with your Discord bot token.
 
-### Prefix:
+#### Prefix:
+
+Replace the "," your custom prefix.
 
 index.js (line: 37)
 ```javascript
